@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HiLowGameCompositionDemo</string>
+    <string name="error_empty">This field can be number only</string>
+    <string name="text_enter_guess">Enter your guess here</string>
+</resources>
